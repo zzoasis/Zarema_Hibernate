@@ -39,7 +39,7 @@ public class Zarema_Hibernate {
         roster.update(benjamin);
         list(roster.createCriteria(pojos.Players.class).list());
 
-        //Изменение данных во 2 записи - вторник
+        //Изменение данных 3 игрока - Томас
         System.out.println("Изменение данных 3 игрока - Томас");
         pojos.Players player3 = (pojos.Players) roster.load(pojos.Players.class, 3);
         player3.setName("Джамал");
@@ -48,16 +48,6 @@ public class Zarema_Hibernate {
         roster.update(player3);
         list(roster.createCriteria(pojos.Players.class).list());
 
-        //Удаление 5 записи - пятницы из таблицы
-        System.out.println("Удаление 6 игрока - Альфонсо из таблицы.");
-        pojos.Players player6 = (pojos.Players) roster.load(pojos.Players.class, 6);
-
-        roster.delete(player6);
-        list(roster.createCriteria(pojos.Players.class).list());
-
-        roster.close();
-        System.exit(0);
-        trans = null;
 
     }
 
