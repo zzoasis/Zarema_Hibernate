@@ -1,7 +1,7 @@
 # Zarema_Hibernate
 ## Работа с базами данных в Java через Hibernate в NetBeans
 ## Вариант 5 - Человек
-![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/image.png)
+![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок6.png)
 
 ![Снимок1](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок3.PNG)
 
