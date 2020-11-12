@@ -11,3 +11,5 @@
 
 ![Снимок3](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок5.PNG)
  
+## Логирование
+![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Логирование.PNG)
