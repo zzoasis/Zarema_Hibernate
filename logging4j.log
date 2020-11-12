@@ -1,0 +1,108 @@
+2020-11-12 22:53:43 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 22:53:43 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 22:53:43 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 22:53:43 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 22:53:43 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 22:53:43 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 22:53:43 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 22:53:43 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 22:53:43 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 22:53:44 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 22:53:44 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 22:53:44 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 22:53:44 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 22:53:44 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 22:53:48 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 22:53:49 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 22:53:49 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-12 22:54:41 [WARN ] SqlExceptionHelper:144 - SQL Error: 1205, SQLState: 40001
+2020-11-12 22:54:41 [ERROR] SqlExceptionHelper:146 - Lock wait timeout exceeded; try restarting transaction
+2020-11-12 22:54:41 [INFO ] AbstractBatchImpl:208 - HHH000010: On release of batch it still contained JDBC statements
+2020-11-12 22:57:37 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 22:57:37 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 22:57:37 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 22:57:37 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 22:57:37 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 22:57:37 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 22:57:37 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 22:57:37 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 22:57:37 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 22:57:38 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 22:57:38 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 22:57:38 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 22:57:38 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 22:57:38 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 22:57:42 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 22:57:43 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 22:57:43 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-12 22:58:35 [WARN ] SqlExceptionHelper:144 - SQL Error: 1205, SQLState: 40001
+2020-11-12 22:58:35 [ERROR] SqlExceptionHelper:146 - Lock wait timeout exceeded; try restarting transaction
+2020-11-12 22:58:35 [INFO ] AbstractBatchImpl:208 - HHH000010: On release of batch it still contained JDBC statements
+2020-11-12 23:00:41 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 23:00:41 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 23:00:41 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 23:00:41 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 23:00:41 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 23:00:41 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 23:00:41 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 23:00:41 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 23:00:42 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 23:00:42 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 23:00:42 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 23:00:42 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 23:00:42 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 23:00:42 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 23:00:46 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 23:00:47 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 23:00:47 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-12 23:07:25 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 23:07:25 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 23:07:25 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 23:07:25 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 23:07:25 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 23:07:25 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 23:07:25 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 23:07:25 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 23:07:26 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 23:07:26 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 23:07:26 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 23:07:26 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 23:07:26 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 23:07:26 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 23:07:30 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 23:07:31 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 23:07:31 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-12 23:09:03 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 23:09:03 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 23:09:03 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 23:09:03 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 23:09:03 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 23:09:03 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 23:09:03 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 23:09:03 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 23:09:03 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 23:09:04 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 23:09:04 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 23:09:04 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 23:09:04 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 23:09:04 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 23:09:08 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 23:09:08 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 23:09:08 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2020-11-12 23:15:05 [INFO ] Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-11-12 23:15:05 [INFO ] Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2020-11-12 23:15:05 [INFO ] Environment:239 - HHH000206: hibernate.properties not found
+2020-11-12 23:15:05 [INFO ] Environment:346 - HHH000021: Bytecode provider name : javassist
+2020-11-12 23:15:05 [INFO ] Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2020-11-12 23:15:05 [INFO ] Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2020-11-12 23:15:05 [WARN ] DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2020-11-12 23:15:05 [INFO ] Configuration:757 - HHH000221: Reading mappings from resource: pojos/Players.hbm.xml
+2020-11-12 23:15:06 [INFO ] Configuration:2214 - HHH000041: Configured SessionFactory: null
+2020-11-12 23:15:06 [WARN ] DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-11-12 23:15:06 [INFO ] DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/human?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+2020-11-12 23:15:06 [INFO ] DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2020-11-12 23:15:06 [INFO ] DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2020-11-12 23:15:06 [INFO ] DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-11-12 23:15:10 [INFO ] Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-11-12 23:15:11 [INFO ] TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-11-12 23:15:11 [INFO ] ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory

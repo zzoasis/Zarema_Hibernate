@@ -12,6 +12,7 @@ public class Zarema_Hibernate {
         Session roster = connection.Controller.getSessionFactory().openSession();
         Transaction trans = roster.beginTransaction();
 
+        System.out.println("");
         System.out.println("Данные из таблицы:");
         list(roster.createCriteria(pojos.Players.class).list());
 
@@ -22,6 +23,7 @@ public class Zarema_Hibernate {
         roster.save(new pojos.Players("Альфонсо", "19", "Канада", "защитник"));
         roster.save(new pojos.Players("Марк", "23", "Испания", "полузащитник"));
         roster.save(new pojos.Players("Бенжамен", "24", "Франция", "защитник"));
+        roster.save(new pojos.Players("Серик", "24", "Казахстан", "вратарь"));
         list(roster.createCriteria(pojos.Players.class).list());
 
         System.out.println("Удаление записи, где имя игрока - 'Марк'.");
@@ -30,6 +32,14 @@ public class Zarema_Hibernate {
                 .uniqueResult();
         roster.delete(mark);
         list(roster.createCriteria(pojos.Players.class).list());
+        
+        System.out.println("Удаление записи, где имя игрока - 'Серик'.");
+        pojos.Players serik = (pojos.Players) roster.createCriteria(pojos.Players.class)
+                .add(Restrictions.eq("name", "Серик"))
+                .uniqueResult();
+        roster.delete(serik);
+        list(roster.createCriteria(pojos.Players.class).list());
+
 
         System.out.println("Изменение имени игрока с 'Бенжамен' на 'Бенедикт'");
         pojos.Players benjamin = (pojos.Players) roster.createCriteria(pojos.Players.class)
