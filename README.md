@@ -1,15 +1,14 @@
 # Zarema_Hibernate
 ## Работа с базами данных в Java через Hibernate в NetBeans
 ## Вариант 5 - Человек
-![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок6.PNG)
+![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/программа.PNG)
 
-![Снимок1](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок3.PNG)
+![Снимок1](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок.PNG)
 
- ## Скрипт для создания таблицы:
+ ## Тестирование:
 
-![Снимок2](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок4.PNG)
+![Снимок2](https://github.com/zzoasis/Zarema_Hibernate/blob/master/тест.PNG)
 
-![Снимок3](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок5.PNG)
+![Снимок3](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Снимок1.PNG)
  
-## Логирование
-![Снимок](https://github.com/zzoasis/Zarema_Hibernate/blob/master/Логирование.PNG)
+
